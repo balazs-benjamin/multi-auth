@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "LoginViewController.loginButton(FBSDKLoginButton!, didCompleteWith : FBSDKLoginManagerLoginResult!, error : Error!) -&gt; ():LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "FBSDKAccessToken.current()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhoneVerificationViewController.onVerify(Any) -&gt; ():PhoneVerificationViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.credential">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.(loginButton(FBSDKLoginButton!, didCompleteWith : FBSDKLoginManagerLoginResult!, error : Error!) -&gt; ()).(closure #1):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "user!.uid">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProfileViewController.(getFBUserData() -&gt; ()).(closure #1):ProfileViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PhoneEmailViewController.(checkDuplicate() -&gt; ()).(closure #1):PhoneEmailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "rest.children">
+            </PersistentString>
+            <PersistentString
+               value = "rest.children.value(forKey: &quot;Email&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.(onPhoneLogin(Any) -&gt; ()).(closure #1):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "error?.localizedDescription">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhoneEmailViewController.(sendCode() -&gt; ()).(closure #1):PhoneEmailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "phoneNumber">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
