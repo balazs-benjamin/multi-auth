@@ -20,7 +20,7 @@ class SignupViewController: UIViewController, UITextFieldDelegate {
     @IBOutlet weak var activityIndicator: UIActivityIndicatorView!
     @IBOutlet weak var btnNext: UIButton!
     
-    var strEmail:String = "myhopewin@gmail.com"
+    var strEmail:String = ""
     var strPhoneNumber:String = ""
     
     override func viewDidLoad() {
